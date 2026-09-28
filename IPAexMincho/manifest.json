@@ -1,0 +1,21 @@
+{
+ "norm": "IPAexMincho",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "官方 IPA Font License v1.0 随包",
+ "license_verified": true,
+ "upstream_hint": "https://moji.or.jp/wp-content/ipafont/",
+ "files": [
+  {
+   "file": "ipaexg.ttf",
+   "bytes": 6099900,
+   "sha256": "3b9955a5e437ffb24c41548e79296fa724822da21ee75dc1b94f6ccdb8f400dd"
+  },
+  {
+   "file": "ipaexm.ttf",
+   "bytes": 7835672,
+   "sha256": "7a306386f930fee80922f71eebf4ffe0f1ff2817da8e619230953487673d71c7"
+  }
+ ]
+}

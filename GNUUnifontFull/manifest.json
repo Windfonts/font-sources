@@ -1,0 +1,46 @@
+{
+ "norm": "GNUUnifontFull",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "GPL-2.0-or-later WITH Font-exception OR OFL-1.1（unifoundry 官方 LICENSE）",
+ "license_verified": true,
+ "upstream_hint": "https://unifoundry.com/pub/unifont/",
+ "files": [
+  {
+   "file": "unifont-16.0.04.otf",
+   "bytes": 5320880,
+   "sha256": "0e3981ab552231b5a2a870f2b61741903a4bf25c23ef5aeb05fdced1b3c7af4d"
+  },
+  {
+   "file": "unifont_csur-16.0.04.otf",
+   "bytes": 678608,
+   "sha256": "b206da88ae140e5a7d618f4552064e3e7804aed8c01fd99a19b154424e7bd22f"
+  },
+  {
+   "file": "unifont_jp-16.0.04.otf",
+   "bytes": 5251120,
+   "sha256": "50daeb0291bbdb92358b94040fbb08efa0930d5697e3f3ed2c5ed7f0dfcaedbe"
+  },
+  {
+   "file": "unifont_jp_sample-16.0.04.otf",
+   "bytes": 5077888,
+   "sha256": "a7d2a50cbfcede9dda89c6d08e2d1452afa6822dbe156c2597ef7a672f438bfe"
+  },
+  {
+   "file": "unifont_sample-16.0.04.otf",
+   "bytes": 5686960,
+   "sha256": "9033ca02cb07321fb1209e5d03b62389f1562d3c0d66ce688bdfae109aca9049"
+  },
+  {
+   "file": "unifont_upper-16.0.04.otf",
+   "bytes": 5931488,
+   "sha256": "fc8c6e9c4958243cef651c87cfbd916916f3545215d3ebcae92366b6edbb2f05"
+  },
+  {
+   "file": "unifont_upper_sample-16.0.04.otf",
+   "bytes": 5999116,
+   "sha256": "6f0365a3628e3807b874beb0b86a3f10bdc13f4435be8be214a4f62271a35482"
+  }
+ ]
+}
