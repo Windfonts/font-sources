@@ -1,0 +1,16 @@
+{
+ "norm": "Xwmh",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "霞鹜新致黑 LxgwMarkerGothic（lxgw）随包 OFL 原文",
+ "license_verified": true,
+ "upstream_hint": "https://raw.githubusercontent.com/lxgw/LxgwMarkerGothic/main/OFL.txt",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 132,
+   "sha256": "45cd24d4d8d1fc9fecd17dbaa97dfab7cfbfe3562a3c94f542d0ee4bbb0fffb6"
+  }
+ ]
+}

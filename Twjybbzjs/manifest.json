@@ -1,0 +1,16 @@
+{
+ "norm": "Twjybbzjs",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "font-mapping.json (AI 分析)",
+ "license_verified": false,
+ "upstream_hint": null,
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 133,
+   "sha256": "6dd8ee8db3ae1526e758e7587a96cfe56f18bd0529c2f13fee7cfef7a33bf57e"
+  }
+ ]
+}

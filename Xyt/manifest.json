@@ -1,0 +1,26 @@
+{
+ "norm": "Xyt",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Bold.ttf",
+   "bytes": 18154300,
+   "sha256": "018caf5041d217ccee381d1eb788e4c5875d8b2cf86a6e94ebcc37ec38881f6d"
+  },
+  {
+   "file": "Light.ttf",
+   "bytes": 18280540,
+   "sha256": "fde128caa537c3db9bb0050800f0908d8391e806265a0ec72a08b669e0943f88"
+  },
+  {
+   "file": "Regular.ttf",
+   "bytes": 18242984,
+   "sha256": "f251fc32c48aba64da243abcf3e20cf90d8121d26052e967c6ef50e8e6539101"
+  }
+ ]
+}

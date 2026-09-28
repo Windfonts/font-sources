@@ -1,0 +1,16 @@
+{
+ "norm": "Xstq",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "https://cdn.jsdelivr.net/gh/jeffreyxuan/toneoz-font-pinyin-wenkai@master/OFL.txt",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 29524772,
+   "sha256": "4fbfb3dd8e68851deec6c64fe5acf8c34ca0150da16ffa2e543e9bd8fb4f9d06"
+  }
+ ]
+}

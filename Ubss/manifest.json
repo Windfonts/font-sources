@@ -1,0 +1,16 @@
+{
+ "norm": "Ubss",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "https://cdn.jsdelivr.net/gh/NightFurySL2001/unbounded-sans@master/OFL_ZHS.txt",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 4260296,
+   "sha256": "d37d10dbb85c7403b164a4565e4e2c837cbbb10005ec812a721104600fc9686d"
+  }
+ ]
+}

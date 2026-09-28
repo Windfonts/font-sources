@@ -1,0 +1,16 @@
+{
+ "norm": "Wjm2",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 29156484,
+   "sha256": "e28ea8e7581957899466b0eb05bcabb1d4e2baf23780f63cde18025134e6401e"
+  }
+ ]
+}

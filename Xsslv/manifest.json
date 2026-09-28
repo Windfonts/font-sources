@@ -1,0 +1,16 @@
+{
+ "norm": "Xsslv",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "font-mapping.json (AI 分析)",
+ "license_verified": false,
+ "upstream_hint": null,
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 132,
+   "sha256": "f2d1460854a815c661fc6c582b0b34d1ef88a9ff04b7cbe0521da7f07f71ac4f"
+  }
+ ]
+}

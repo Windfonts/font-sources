@@ -1,0 +1,16 @@
+{
+ "norm": "Unfdzh",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "unifoundry.com 官方 LICENSE",
+ "license_verified": true,
+ "upstream_hint": "https://unifoundry.com/LICENSE.txt",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 133,
+   "sha256": "e5297365d29688084adade697e77daa56482f7387784271cc16eb69aaf13c308"
+  }
+ ]
+}

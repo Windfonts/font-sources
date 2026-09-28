@@ -1,0 +1,16 @@
+{
+ "norm": "Twzl",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 21756404,
+   "sha256": "bf021e90511fe157c2ecb1472fa3f8ed22f356e2823bcbd413117209cd99b786"
+  }
+ ]
+}

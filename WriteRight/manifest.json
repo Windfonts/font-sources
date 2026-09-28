@@ -1,0 +1,16 @@
+{
+ "norm": "WriteRight",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 8089320,
+   "sha256": "70809c1097259ce5aaaf824d18dc9f503d54260f75468b02dd21bed440f931b0"
+  }
+ ]
+}

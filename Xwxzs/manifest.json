@@ -1,0 +1,16 @@
+{
+ "norm": "Xwxzs",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "IPA 字体许可 v1.0 原文（小薇系列 IPA 授权款）",
+ "license_verified": true,
+ "upstream_hint": null,
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 133,
+   "sha256": "23b4653270d29cac69d1f500494130aff946024f9a7c2cb2eae8bd376b875d71"
+  }
+ ]
+}
