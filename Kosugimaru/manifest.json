@@ -1,0 +1,16 @@
+{
+ "norm": "Kosugimaru",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 3565716,
+   "sha256": "4b8d0022c8dadd090ef67cd1f71f130714767af7806cba2eb4ebe4b0271c1d68"
+  }
+ ]
+}

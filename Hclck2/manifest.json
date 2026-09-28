@@ -1,0 +1,31 @@
+{
+ "norm": "Hclck2",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "龙藏体 LongCang（googlefonts/longcang）随包 OFL 原文",
+ "license_verified": true,
+ "upstream_hint": "https://raw.githubusercontent.com/google/fonts/main/ofl/longcang/OFL.txt",
+ "files": [
+  {
+   "file": "Bold.otf",
+   "bytes": 4201864,
+   "sha256": "0224e5ecd709daacb12c199e0af54fa16d9c96ceef25b92b1f5b298967bfb255"
+  },
+  {
+   "file": "ExtraBold.otf",
+   "bytes": 4157960,
+   "sha256": "438d8eb0128f95f6819555356327d83b7abafbdd68467c05944b6cc423c162b0"
+  },
+  {
+   "file": "Medium.otf",
+   "bytes": 3650356,
+   "sha256": "d032fe3ea435a683f7ec167f7e44cdb49449e0ce5b54df3dbe9dd0cb7d188a37"
+  },
+  {
+   "file": "Regular.otf",
+   "bytes": 3841796,
+   "sha256": "70faa0841dc48d64032c4c98b0ac854d5c177235bb2304be174e9040aee2cf80"
+  }
+ ]
+}

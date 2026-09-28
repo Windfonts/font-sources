@@ -1,0 +1,16 @@
+{
+ "norm": "Kiwimaru",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 5065572,
+   "sha256": "b0c3103b2639f690c1fcb44e060058383174bfd2eb72e6635bc9869b374dee87"
+  }
+ ]
+}

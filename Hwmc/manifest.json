@@ -1,0 +1,16 @@
+{
+ "norm": "Hwmc",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.otf",
+   "bytes": 16625636,
+   "sha256": "1c491750613de17d007ef9b8b4937b15cdaaa936a6ae2485c5dc0cee200fb044"
+  }
+ ]
+}

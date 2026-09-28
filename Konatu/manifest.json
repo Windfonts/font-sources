@@ -1,0 +1,16 @@
+{
+ "norm": "Konatu",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "官方发布包随包 README 原文（This work is licensed under The MIT License，作者 MASUDA mitiya）",
+ "license_verified": true,
+ "upstream_hint": "https://www.masuseki.com/wp/?p=233",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 5747688,
+   "sha256": "9cfce9eba7312a037e1e0ad2adc429d84f4fb5f40ff8a34f19ea41fc6d39d63b"
+  }
+ ]
+}

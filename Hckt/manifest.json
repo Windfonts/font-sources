@@ -1,0 +1,16 @@
+{
+ "norm": "Hckt",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 35027008,
+   "sha256": "33a4f5120f80e45c2188445fe710e4cdbf7c7ed6d89fb901a188f164b6c407fc"
+  }
+ ]
+}

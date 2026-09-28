@@ -1,0 +1,16 @@
+{
+ "norm": "Kwgh",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 31158716,
+   "sha256": "da6d76a895ac0a8ba80edeb5b99dec0b0e8e205040244e37ba0a39054fa5289e"
+  }
+ ]
+}

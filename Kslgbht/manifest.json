@@ -1,0 +1,16 @@
+{
+ "norm": "Kslgbht",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "font-mapping.json (AI 分析)",
+ "license_verified": false,
+ "upstream_hint": null,
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 133,
+   "sha256": "0bd902e40a27b404b07df685f1141a6239f9dd0238819a8905e9bcdf0084504e"
+  }
+ ]
+}

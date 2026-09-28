@@ -1,0 +1,16 @@
+{
+ "norm": "Kslyt",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "font-mapping.json (AI 分析)",
+ "license_verified": false,
+ "upstream_hint": null,
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 133,
+   "sha256": "ad361585f96789d43ef7a87d33501a4f830813ea4d6fc5ae42e486e0f575fe73"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "norm": "Ibmps",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "IBM Plex Sans 随包 OFL 原文，RFN=Plex",
+ "license_verified": true,
+ "upstream_hint": "https://raw.githubusercontent.com/IBM/plex/master/LICENSE.txt",
+ "files": [
+  {
+   "file": "Bold.ttf",
+   "bytes": 132,
+   "sha256": "98e8e69292c3369b350688f3621a93446a03817fa1ac54a9a89138d8f9ece616"
+  },
+  {
+   "file": "Extralight.ttf",
+   "bytes": 132,
+   "sha256": "77e4b429f1c0de76bdceb65880e3da8f54e14648436e96477aeedf42d98832b6"
+  },
+  {
+   "file": "Light.ttf",
+   "bytes": 132,
+   "sha256": "7233065144f246f5a13c4568d49c1a2aae47b9e665df8ac54dec450e4d0c11b4"
+  },
+  {
+   "file": "Regular.ttf",
+   "bytes": 132,
+   "sha256": "11327c96326d637e3b456c0554e448ec920cbe2b295d8169ccb58b2f3eb86518"
+  },
+  {
+   "file": "Text.ttf",
+   "bytes": 132,
+   "sha256": "4d315c1f679ecec74c30e3c6a870807cd1919bdba01158a38ab9964032c5ff72"
+  },
+  {
+   "file": "Thin.ttf",
+   "bytes": 132,
+   "sha256": "81ba4430bc2bdc273003ce3834e912d989b3a9c6e4ddd0371a035ff383018185"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "norm": "Jpdz",
+ "license": "免费商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "https://cdn.jsdelivr.net/gh/scott0107000/BoutiqueBitmap9x9@master/OFL.txt",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 2132504,
+   "sha256": "981f0ccf566c95d552baf252c9805d63aee33936ff8d09002dfaa32ea8b1deeb"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "norm": "IPAmjMincho",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "https://moji.or.jp/mojikiban/font/",
+ "license_verified": true,
+ "upstream_hint": "https://opensource.org/licenses/IPA",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 46676744,
+   "sha256": "a3e84f495f3c388db7a1473bf1985c1c076d0c814100f10a027ca6853eb1e8cb"
+  }
+ ]
+}

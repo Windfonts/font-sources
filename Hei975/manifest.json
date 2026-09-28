@@ -1,0 +1,26 @@
+{
+ "norm": "Hei975",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Bold.ttf",
+   "bytes": 9868146,
+   "sha256": "2fc11d97c7ccf071605a89019f3bd66b4a64d47ed94a09c66c0af7ffd01c9861"
+  },
+  {
+   "file": "Light.ttf",
+   "bytes": 11181630,
+   "sha256": "520f912681a7b6cccf9b5005cc26171327ad35130d43d304524447517db6b0a9"
+  },
+  {
+   "file": "Regular.ttf",
+   "bytes": 10527274,
+   "sha256": "a66482e17172b4bf989bbf7e6cdaaaa83e5f15d6ff621ef9034bdbbef4ba0466"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "norm": "Hctyt",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "寒蝉团圆体 ChillReunion（ChillType）随包 OFL 原文",
+ "license_verified": true,
+ "upstream_hint": null,
+ "files": [
+  {
+   "file": "Normal.ttf",
+   "bytes": 132,
+   "sha256": "ad35d8dcc878c736679bfd135b09d20de974548e4d25b345c7c97948d674dc2b"
+  },
+  {
+   "file": "Round.ttf",
+   "bytes": 132,
+   "sha256": "d2ff650972558d5bcf6483b9e61a5d2695048d58b21aafacaae1c6ff2709b1c2"
+  }
+ ]
+}

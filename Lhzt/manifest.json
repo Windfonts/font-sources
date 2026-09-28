@@ -1,0 +1,16 @@
+{
+ "norm": "Lhzt",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "SIL OFL 1.1 官方全文（官方配布站 nonty.net 与 OSDN 项目均已失效；v6.20 起改用 OFL，窓の杜报道佐证）",
+ "license_verified": true,
+ "upstream_hint": "http://web.archive.org/web/20140822195738/http://nonty.net/item/font/setofont.php",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 133,
+   "sha256": "3d0020aa6fa36d08aa127382d045abb5b832ee55dc899af1d0de3d38baea7441"
+  }
+ ]
+}

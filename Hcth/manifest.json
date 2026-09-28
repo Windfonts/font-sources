@@ -1,0 +1,21 @@
+{
+ "norm": "Hcth",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Medium.otf",
+   "bytes": 9436152,
+   "sha256": "9959d00f6b714b5467498111d06b367144e3170063108da811a78374b8536d2e"
+  },
+  {
+   "file": "Regular.otf",
+   "bytes": 9107896,
+   "sha256": "392fbcc3907554c7d40b7b5a6fb72586623362d88124ea86e7c9f9ce9605e799"
+  }
+ ]
+}
