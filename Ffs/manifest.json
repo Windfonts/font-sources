@@ -1,0 +1,16 @@
+{
+ "norm": "Ffs",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "source_local": "oss-batch1-staging|fonts-packages/fonts",
+ "license_source": "上游仓 README「授权信息」段原文（声明遵循 GlyphWiki 著作权与许可协议）",
+ "license_verified": true,
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 15298480,
+   "sha256": "a3e0a81641b1af9c55c347d5d1ec8f3f90ac683d79a270f8cd8abf616f586bfd"
+  }
+ ]
+}

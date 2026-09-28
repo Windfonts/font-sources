@@ -1,0 +1,16 @@
+{
+ "norm": "Kys",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "source_local": "oss-batch1-staging|fonts-packages/fonts",
+ "license_source": "upstream Miiiller/Kongyuan-Sans (branch main)",
+ "license_verified": true,
+ "files": [
+  {
+   "file": "Regular.otf",
+   "bytes": 31012416,
+   "sha256": "f2f0bb0ad3988908f1587c90b49fcf1dbe4b6b32a84b9cace83a9d7381aa09de"
+  }
+ ]
+}
