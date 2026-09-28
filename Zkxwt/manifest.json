@@ -1,0 +1,16 @@
+{
+ "norm": "Zkxwt",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "https://fonts.google.com/specimen/ZCOOL+XiaoWei",
+ "license_verified": true,
+ "upstream_hint": "https://fonts.google.com/specimen/ZCOOL+XiaoWei",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 6313808,
+   "sha256": "a42b620140f493db42f741351dfbf343c0936d58588ee8004b8b2a218d997ff1"
+  }
+ ]
+}

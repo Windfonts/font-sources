@@ -1,0 +1,31 @@
+{
+ "norm": "Zyyt",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Bold.otf",
+   "bytes": 20500040,
+   "sha256": "5ed043b3d1048e4d7868909c6d6fbba2d0cb50773d394003f4fb077a18e2b3fb"
+  },
+  {
+   "file": "Light.otf",
+   "bytes": 19529468,
+   "sha256": "fafea8a9ed300c6a8e0398ae4c5f8ee8b93cc0b29316fd41107e4c62d060dae6"
+  },
+  {
+   "file": "Medium.otf",
+   "bytes": 19815572,
+   "sha256": "37e955142854accc0db5aec6cfa968db4458bfdaec8e705afdc8b08612b460f9"
+  },
+  {
+   "file": "Regular.otf",
+   "bytes": 19635772,
+   "sha256": "519253233cbca3c2b97b818949e803ccf08f937d75431bedf59e167b00bf4b65"
+  }
+ ]
+}

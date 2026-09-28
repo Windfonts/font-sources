@@ -1,0 +1,16 @@
+{
+ "norm": "Zmxs",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "https://fonts.google.com/specimen/Zhi+Mang+Xing",
+ "license_verified": true,
+ "upstream_hint": "https://fonts.google.com/specimen/Zhi+Mang+Xing",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 4063532,
+   "sha256": "644e0cae9b40f0b10ab729a01bd32032e3973bac22be3dccae01bf6ae7fde969"
+  }
+ ]
+}

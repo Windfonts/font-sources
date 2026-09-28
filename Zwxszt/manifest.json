@@ -1,0 +1,16 @@
+{
+ "norm": "Zwxszt",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "SIL OFL 1.1 官方全文（猫啃官方收录页标 OFL）",
+ "license_verified": true,
+ "upstream_hint": "https://www.maoken.com/freefonts/11130.html",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 132,
+   "sha256": "3eb8ad5f25a0d341bc881bb0371f970268da5416cfa68fd3047624fab1bab2a9"
+  }
+ ]
+}

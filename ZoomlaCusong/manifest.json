@@ -1,0 +1,16 @@
+{
+ "norm": "ZoomlaCusong",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": null,
+ "license_verified": null,
+ "upstream_hint": null,
+ "files": [
+  {
+   "file": "Regular.otf",
+   "bytes": 2413248,
+   "sha256": "a56b46dcde472cb42c07ee5c6e86c6a166746132133c28fe1b43a3ad46c594ca"
+  }
+ ]
+}
