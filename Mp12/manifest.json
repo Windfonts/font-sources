@@ -1,0 +1,21 @@
+{
+ "norm": "Mp12",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "M+ BITMAP FONTS 官方许可全文（经 ttf-bdfumplus-outline LICENSE.md 镜像核验）",
+ "license_verified": true,
+ "upstream_hint": "https://mplus-fonts.osdn.jp/mplus-bitmap-fonts/",
+ "files": [
+  {
+   "file": "Regular.clean.ttf",
+   "bytes": 2455728,
+   "sha256": "e9595d30ffe004d94bc94793e311f6fda4558588f8f13ff6d42796f6b234734f"
+  },
+  {
+   "file": "Regular.ttf",
+   "bytes": 2528020,
+   "sha256": "9eacfe6ab8a9d4ec76857de1e31534130c99d297300dd66ca2d846f453d952b2"
+  }
+ ]
+}

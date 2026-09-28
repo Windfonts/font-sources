@@ -1,0 +1,16 @@
+{
+ "norm": "Mkwgzh",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "官方/收录声明页原文归档（https://www.maoken.com/freefonts/14318.html）",
+ "license_verified": true,
+ "upstream_hint": "https://www.maoken.com/freefonts/14318.html",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 133,
+   "sha256": "c9fe57edb8a40a862752afabbf1a40d85c3c8c1da358971b6bc23fe4a7794243"
+  }
+ ]
+}

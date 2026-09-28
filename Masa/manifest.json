@@ -1,0 +1,16 @@
+{
+ "norm": "Masa",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "作者 Max（max-everyday.com）发布页「著作權與授權」段原文；配套仓 max32002/masafont 无独立 LICENSE",
+ "license_verified": true,
+ "upstream_hint": "https://max-everyday.com/2020/05/masafont/",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 17922528,
+   "sha256": "f5a449d3a9ce2170e404050cc2b44bfa16ae48ef8fb06aa5968383ed74e5ed4d"
+  }
+ ]
+}

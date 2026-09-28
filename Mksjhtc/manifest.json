@@ -1,0 +1,16 @@
+{
+ "norm": "Mksjhtc",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 12775468,
+   "sha256": "f095fc9c7f8eb7d57abe565067bba154a42d143eaa3f5b627de3eab1f870beee"
+  }
+ ]
+}

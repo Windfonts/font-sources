@@ -1,0 +1,16 @@
+{
+ "norm": "Mksjh",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "猫啃什锦体（ZERO子 / Skr-ZERO）随包 OFL 原文，RFN=Assorted/什锦",
+ "license_verified": true,
+ "upstream_hint": null,
+ "files": [
+  {
+   "file": "Bold.ttf",
+   "bytes": 132,
+   "sha256": "6df968acf0cc4e46b29086f44c8f2b8ba56e072f6331ca0e07ee2e9ef498611d"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "norm": "Mjdz",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "https://cdn.jsdmirror.com/gh/ItMarki/jyunsaikaai@main/README.md#readme",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 2527964,
+   "sha256": "f87164d114c98c5abd420bd0048c17710c5362d8a5478686005cd73e155d80e8"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "norm": "Mplus1m",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 1564936,
+   "sha256": "591a3572db98ee466951699d0f23ad0173348e90a72c2b59b9f1cb13c945c4f4"
+  }
+ ]
+}

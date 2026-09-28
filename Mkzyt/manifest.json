@@ -1,0 +1,16 @@
+{
+ "norm": "Mkzyt",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "官方/收录声明页原文归档（https://www.maoken.com/freefonts/17948.html）",
+ "license_verified": true,
+ "upstream_hint": "https://www.maoken.com/freefonts/17948.html",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 132,
+   "sha256": "bcdd0e642409970c80bf64830c436ee4b080203ce857b355cf849453647da448"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "norm": "Mshx",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "https://cdn.jsdelivr.net/gh/MaruTama/Mengshen-pinyin-font@master/LICENSE",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 19655536,
+   "sha256": "a9cc949dfec52cfa4a3bd83c313bde86f9e2224c0a284c8879130fbb8bb04d04"
+  }
+ ]
+}

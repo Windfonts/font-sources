@@ -1,0 +1,31 @@
+{
+ "norm": "Mdmz",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "https://cdn.jsdelivr.net/gh/max32002/NaikaiFont@master/SIL_Open_Font_License_1.1.txt",
+ "files": [
+  {
+   "file": "Bold.ttf",
+   "bytes": 16711552,
+   "sha256": "8592f22b17ba1d47e2a29e6ba95bb77688b11230677bd1010b2c726bb5849b17"
+  },
+  {
+   "file": "Light.ttf",
+   "bytes": 15832792,
+   "sha256": "58ecf54d04e42398a0e3e420c9e23a39bd62e6f7bb76173062dcaf9bd961cef0"
+  },
+  {
+   "file": "Medium.ttf",
+   "bytes": 16648360,
+   "sha256": "6c4a1be29e508fed588d8ec749ed8ae9e3b8325af0e0a973657739256dba9997"
+  },
+  {
+   "file": "Regular.ttf",
+   "bytes": 14232448,
+   "sha256": "19fad0c294f3d3013bdee7471cd5e79015ee7a03acb2c47d9955937fc3dc8e4e"
+  }
+ ]
+}

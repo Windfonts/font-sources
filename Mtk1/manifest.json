@@ -1,0 +1,16 @@
+{
+ "norm": "Mtk1",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "字体 name 表内嵌双授权声明",
+ "license_verified": true,
+ "upstream_hint": "https://data.gov.tw/license",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 34722996,
+   "sha256": "b63fddefcf26eee8b8aa5919da2110a3f00ddc919cd23d8e3a1c4b0c703de81f"
+  }
+ ]
+}

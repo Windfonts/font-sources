@@ -1,0 +1,16 @@
+{
+ "norm": "Mlyu",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@master/SIL_Open_Font_License_1.1.txt",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 16092116,
+   "sha256": "375b09cde606eda1df5b78f6cdf3767d952455b38a452c1da0786503d85385ad"
+  }
+ ]
+}
