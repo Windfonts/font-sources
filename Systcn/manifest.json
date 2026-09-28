@@ -1,0 +1,46 @@
+{
+ "norm": "Systcn",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Bold.ttf",
+   "bytes": 133,
+   "sha256": "e8fd4d9cca07e08f9119d838659b9327aaa2bfba79cf85666eb80bf5ba5bc8c9"
+  },
+  {
+   "file": "Extralight.ttf",
+   "bytes": 133,
+   "sha256": "857a070b01c6c9c8df5b0932ad9672f211e53ef6fea23bb046bcd9b055c327fe"
+  },
+  {
+   "file": "Heavy.ttf",
+   "bytes": 133,
+   "sha256": "8cd8e6b07683e40207fcc471c31fc6dffc22f409d5d82229ad1db213e82c126b"
+  },
+  {
+   "file": "Light.ttf",
+   "bytes": 133,
+   "sha256": "bd7bc9d4d91d636c905fa4044caaef622bc0f49d0925df2cd85b32d8ba62c987"
+  },
+  {
+   "file": "Medium.ttf",
+   "bytes": 133,
+   "sha256": "7824ecf852a19cb5fc6cd7b5a30e8e3346dc0be61fe1f97510e9fb1bd40924af"
+  },
+  {
+   "file": "Regular.ttf",
+   "bytes": 133,
+   "sha256": "74628c5e948087245a46879c579c1bd4521177cba037e9ec4f84d7fa9e21ef47"
+  },
+  {
+   "file": "Semibold.ttf",
+   "bytes": 133,
+   "sha256": "e1bcd35501d58a0bcb95247288a43f57b6bc50392c5ba1052659f7aede7e9626"
+  }
+ ]
+}

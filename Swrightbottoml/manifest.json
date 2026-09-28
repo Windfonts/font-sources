@@ -1,0 +1,16 @@
+{
+ "norm": "Swrightbottoml",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 10979196,
+   "sha256": "fcd953c1a682f498af6e4a603251257b6f16228379b7ee0cb52937237f6e788d"
+  }
+ ]
+}

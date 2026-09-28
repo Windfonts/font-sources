@@ -1,0 +1,46 @@
+{
+ "norm": "Sykd",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Bold.otf",
+   "bytes": 17782908,
+   "sha256": "7bead3459a3afe4bcf4ce353cf639c13d54d3381bdb6ecaf58572ef4dac05091"
+  },
+  {
+   "file": "ExtraLight.otf",
+   "bytes": 15935836,
+   "sha256": "2b8c234ad2c3e1ecc8c4298d33f2927d824eab11686b5811402386e03a2dfa04"
+  },
+  {
+   "file": "Heavy.otf",
+   "bytes": 18365944,
+   "sha256": "9e4864ff8705d1a22d1b84754d41db3093e2189428912b530d05572214be4835"
+  },
+  {
+   "file": "Light.otf",
+   "bytes": 17058748,
+   "sha256": "05a961ea5bbd3fc45c43d128916fc820b4bcc5016de1ed55c9e9866321d45cbe"
+  },
+  {
+   "file": "Medium.otf",
+   "bytes": 17284624,
+   "sha256": "c041398e1ba376442f27e8ea01a92ac5bc4e8cb762e9cccd2da1cc502c4df21b"
+  },
+  {
+   "file": "Normal.otf",
+   "bytes": 17136008,
+   "sha256": "131ef446a8ba42b63bbfd159fc542bc24881f04634129793bfa170654f952703"
+  },
+  {
+   "file": "Regular.otf",
+   "bytes": 17177936,
+   "sha256": "cecd1a14b948b8468389af021e1304d00a660d9e9c6b971aa322908d00edfe7a"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "norm": "Swshearleg",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 10862168,
+   "sha256": "b2863aeb5fe8b6b5e1335fb5369cca08797c7cbf75c6ae994113dff2cf041398"
+  }
+ ]
+}

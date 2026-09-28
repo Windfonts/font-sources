@@ -1,0 +1,16 @@
+{
+ "norm": "Swnutleg",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 11026912,
+   "sha256": "3922dac82317ea39265e3a061f355c5b09fec0f5438f1e4092afb4ccd89a10f5"
+  }
+ ]
+}

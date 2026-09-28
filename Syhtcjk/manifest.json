@@ -1,0 +1,46 @@
+{
+ "norm": "Syhtcjk",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "思源黑体 CJK（Adobe）随包 OFL 原文，RFN=Source",
+ "license_verified": true,
+ "upstream_hint": null,
+ "files": [
+  {
+   "file": "Black.ttf",
+   "bytes": 133,
+   "sha256": "cd47aac84857046c135f3bc152a99380793bca5a111651a29a4565b873de7640"
+  },
+  {
+   "file": "Bold.ttf",
+   "bytes": 133,
+   "sha256": "2cacec157c0c11615ccc19335c02a376009719149406d5f00970dd00a87cbac1"
+  },
+  {
+   "file": "DemiLight.ttf",
+   "bytes": 133,
+   "sha256": "e8c30cf898afd90755fea68d89a48723c62a533a2e5c6452ec5d439785af4ac1"
+  },
+  {
+   "file": "Light.ttf",
+   "bytes": 133,
+   "sha256": "c11982b797a9250c4fc7040927dcb37d025244bf94abc33327b8c94d2845ea49"
+  },
+  {
+   "file": "Medium.ttf",
+   "bytes": 133,
+   "sha256": "350de0402a553f57874406396ed89d318c8799778c42dbb6ae388d3b7d2dd340"
+  },
+  {
+   "file": "Regular.ttf",
+   "bytes": 133,
+   "sha256": "e156d6c66c72cee62f48187e9497514f7d5e31c356516661f73bd3a4f2b8a224"
+  },
+  {
+   "file": "Thin.ttf",
+   "bytes": 133,
+   "sha256": "16d140cc3ccdfbb59f8aaf322b6b85d6d6a1501ef3402fb5b7012480d7f13523"
+  }
+ ]
+}

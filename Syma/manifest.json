@@ -1,0 +1,16 @@
+{
+ "norm": "Syma",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓授权文件原文，2026-09-24 随包下载核对",
+ "license_verified": true,
+ "upstream_hint": "http://zhs.glyphwiki.org/wiki/GlyphWiki:著作权与许可协议",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 30017812,
+   "sha256": "12b8a349ee8a9bd85395630586f0a0332a72a2dfe8dcffc319c2108eb8747e36"
+  }
+ ]
+}

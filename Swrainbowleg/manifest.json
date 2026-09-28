@@ -1,0 +1,16 @@
+{
+ "norm": "Swrainbowleg",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 14479964,
+   "sha256": "12f86b280fa382ddb2ffa31632d3db89430ccbaac9a463bef3641cf983b7d92b"
+  }
+ ]
+}

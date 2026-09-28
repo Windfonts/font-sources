@@ -1,0 +1,16 @@
+{
+ "norm": "TsangerFeiBaiW03",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "https://www.tsanger.cn/category/114",
+ "license_verified": true,
+ "upstream_hint": "https://www.tsanger.cn/category/114",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 1672076,
+   "sha256": "e19573dbf308065a451d4ff117207c463475471db33646cc97d43c46700e1a3b"
+  }
+ ]
+}

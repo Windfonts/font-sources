@@ -1,0 +1,46 @@
+{
+ "norm": "Systtc",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Bold.otf",
+   "bytes": 25520548,
+   "sha256": "5dfc336214dc81d9bfed14c668cdce99b55078bfee60833d50f5445b8fa944b3"
+  },
+  {
+   "file": "ExtraLight.otf",
+   "bytes": 21405168,
+   "sha256": "c3a13efa7d409b0edc33270c13b0d9c751f4b4702d80949ba07bc2e41bda28b1"
+  },
+  {
+   "file": "Heavy.otf",
+   "bytes": 24062096,
+   "sha256": "d5f69cd509cd19bd924e0f69ff5c604809088ea3ff756a8a16dd028791db06f7"
+  },
+  {
+   "file": "Light.otf",
+   "bytes": 24500116,
+   "sha256": "0f4fc7f95012acddcd2b776257b3a9d33c2eb1dc6a23c7a3136cef045436069d"
+  },
+  {
+   "file": "Medium.otf",
+   "bytes": 24804396,
+   "sha256": "8025c5b5747d56e0359b076a27958ea07e24d1189fca3e4f48ff51e47a3ba272"
+  },
+  {
+   "file": "Regular.otf",
+   "bytes": 24542148,
+   "sha256": "659c9606d8fda03372247b99ec5e5bbc5a034e06a70d80fb00546772c582d3e5"
+  },
+  {
+   "file": "SemiBold.otf",
+   "bytes": 24699348,
+   "sha256": "e1384c85785f28bbf982b4852054286a26c59a8df6056b99c0cd23107b25f946"
+  }
+ ]
+}

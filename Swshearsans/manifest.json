@@ -1,0 +1,16 @@
+{
+ "norm": "Swshearsans",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 10900088,
+   "sha256": "df140c929d10307ca270de1161134d20bf1cc3b12aaee7b6df50ebfb4b8ceb2d"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "norm": "Swsugar",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 28725804,
+   "sha256": "078ad8482dfd15f4358221cfa5bb6b224824d4895309b58ddea533ceee834874"
+  }
+ ]
+}

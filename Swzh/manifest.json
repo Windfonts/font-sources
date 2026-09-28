@@ -1,0 +1,16 @@
+{
+ "norm": "Swzh",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "yzdnn staging pin",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 3030044,
+   "sha256": "057408368e5cb7deb3c9ba9f6abae1be443ffbb6ec026df0b334c4b52e0e84e9"
+  }
+ ]
+}

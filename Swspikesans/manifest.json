@@ -1,0 +1,16 @@
+{
+ "norm": "Swspikesans",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 12106488,
+   "sha256": "8fa4f3be70be84be02cab41d34b6dfc9b833c37de2830cb728f2d06bb4fbfea3"
+  }
+ ]
+}
