@@ -1,0 +1,16 @@
+{
+ "norm": "Swb2serif",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 23671820,
+   "sha256": "f94b7f7de5d263a0b3bb16b1503d0f3871da6ca41a89a0a38ae3df779187af01"
+  }
+ ]
+}

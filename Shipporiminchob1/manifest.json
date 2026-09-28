@@ -1,0 +1,16 @@
+{
+ "norm": "Shipporiminchob1",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 33655760,
+   "sha256": "8ff7ce714dfd325035f924af6d1632acd753099dddbc869722ac24f68924d944"
+  }
+ ]
+}

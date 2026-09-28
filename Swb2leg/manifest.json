@@ -1,0 +1,16 @@
+{
+ "norm": "Swb2leg",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 19917656,
+   "sha256": "4df921284640a82eed7ce9d6cd9cd4e7bbc1e85a3908d1080e200847f1507463"
+  }
+ ]
+}

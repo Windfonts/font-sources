@@ -1,0 +1,16 @@
+{
+ "norm": "Qiji",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "https://cdn.jsdelivr.net/gh/LingDong-/qiji-font@master/LICENSE",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 11038112,
+   "sha256": "2ee30738d37b102bfa90e56cd04fde2620ccef012b44390b77b0703cf995cf5b"
+  }
+ ]
+}

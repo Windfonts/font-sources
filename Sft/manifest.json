@@ -1,0 +1,16 @@
+{
+ "norm": "Sft",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "作者官网 cjkFonts「随峰体/ThePeakFont」页授权声明原文归档",
+ "license_verified": true,
+ "upstream_hint": "https://connect.cjkfonts.com/blog/ThePeakFont",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 133,
+   "sha256": "e4359258956778531e4655919e015eb348a45c33b4459926850b7fdbb3ae3927"
+  }
+ ]
+}

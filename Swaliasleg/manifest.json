@@ -1,0 +1,16 @@
+{
+ "norm": "Swaliasleg",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 11225156,
+   "sha256": "55fe2b29720ad7a1b62152e6a0af55592fa61d8724ecb477d72b8e3b30233831"
+  }
+ ]
+}

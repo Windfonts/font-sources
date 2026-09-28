@@ -1,0 +1,16 @@
+{
+ "norm": "Rampart",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 3722796,
+   "sha256": "a47a727c58142f606235b9d67073b8792cbe46d4695caa4726810db6b871fade"
+  }
+ ]
+}

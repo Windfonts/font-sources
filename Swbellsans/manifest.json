@@ -1,0 +1,16 @@
+{
+ "norm": "Swbellsans",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 20621740,
+   "sha256": "92747c552e6c2b9ef298104300c1c7c7c91bcd8ebd8a1543b8b2adb3dc23f396"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "norm": "Sw3tleg",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 16227736,
+   "sha256": "0399e538a3809bbd945d32d1845be712363ea54080c4fd7351a75bb3bbb55418"
+  }
+ ]
+}

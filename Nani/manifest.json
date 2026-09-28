@@ -1,0 +1,16 @@
+{
+ "norm": "Nani",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "何某手写体 NaniFont（なにか亭）随包 OFL 原文，入库版本 v1.046（字体 name 表自报）",
+ "license_verified": true,
+ "upstream_hint": null,
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 17799572,
+   "sha256": "3fb7b030f853f2efc4d97dd28fae08a6fa93a565fc91a8f585897e0d53716c1c"
+  }
+ ]
+}

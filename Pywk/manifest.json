@@ -1,0 +1,16 @@
+{
+ "norm": "Pywk",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 20028708,
+   "sha256": "3faba5262f9cde31cc184848dd3dec7be65030a88089801b3e528f429f62ce29"
+  }
+ ]
+}

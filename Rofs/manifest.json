@@ -1,0 +1,16 @@
+{
+ "norm": "Rofs",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "yzdnn staging pin",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 4707760,
+   "sha256": "20752474027efabc16d940b4b213d3462212b85df59b632d58c79d8c6d1ce27d"
+  }
+ ]
+}
