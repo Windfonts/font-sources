@@ -1,0 +1,16 @@
+{
+ "norm": "Swmatchsans",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 21353544,
+   "sha256": "82a2025be814a631c44dc9715d3663a1cb6d062e6b18ca6f4233df75482ed711"
+  }
+ ]
+}

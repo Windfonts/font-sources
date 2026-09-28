@@ -1,0 +1,16 @@
+{
+ "norm": "Swcurveleg",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 12251188,
+   "sha256": "68483946b0a346f0b23a11753cc2ebcb4a29a372ba0830c86bca31cbce410340"
+  }
+ ]
+}

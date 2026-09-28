@@ -1,0 +1,16 @@
+{
+ "norm": "Swgothicleg",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 16013536,
+   "sha256": "9e3f2348a220cd1ac5aff226c858290b21fa6a5a843ff365e211e2d6b58096f7"
+  }
+ ]
+}

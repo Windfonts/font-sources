@@ -1,0 +1,16 @@
+{
+ "norm": "Swgothic",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 16312184,
+   "sha256": "c2a7116ac53c3921f8656e8ede999d41802e2e0406a184a1924f0ef4f47279fc"
+  }
+ ]
+}

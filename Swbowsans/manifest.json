@@ -1,0 +1,16 @@
+{
+ "norm": "Swbowsans",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 11698244,
+   "sha256": "0d2a1e88e96797168d432605755db4e47ad96eed4a0785ae9a192ac7e52130ff"
+  }
+ ]
+}

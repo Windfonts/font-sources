@@ -1,0 +1,16 @@
+{
+ "norm": "Swjayleg",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 11233384,
+   "sha256": "6736189be0fc89c7009bc0e0ececfc513131b71e82c7b30a016a320303de3795"
+  }
+ ]
+}

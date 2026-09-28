@@ -1,0 +1,16 @@
+{
+ "norm": "Swdellunaleg",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 11481712,
+   "sha256": "877eba13fb1a4c57f257025ba003b3e853a9a09081f6a732f8e8f103830f4f6c"
+  }
+ ]
+}

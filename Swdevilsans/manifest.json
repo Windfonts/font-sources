@@ -1,0 +1,16 @@
+{
+ "norm": "Swdevilsans",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 17697252,
+   "sha256": "2cc68954c9d620a08acc1ceeb668055a8dce5da87f7d61fd0784b8f4d0c1f177"
+  }
+ ]
+}

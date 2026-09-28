@@ -1,0 +1,16 @@
+{
+ "norm": "Swdlucy",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 13549400,
+   "sha256": "ab04c435f3751fe8e57bde96e3c0477b7efdaea682a99accb1f321733830edf9"
+  }
+ ]
+}

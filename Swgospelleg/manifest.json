@@ -1,0 +1,16 @@
+{
+ "norm": "Swgospelleg",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 12418040,
+   "sha256": "164aaf7ad94742e579cd19301bf7a49878188330ee3d8227f578db1745ceda0e"
+  }
+ ]
+}
