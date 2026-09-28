@@ -1,0 +1,16 @@
+{
+ "norm": "Yjmct",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "源暎明朝（Adobe Source Serif 系）随包 OFL 原文，RFN=Source",
+ "license_verified": true,
+ "upstream_hint": null,
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 133,
+   "sha256": "c93efc40b4fd2a8638dda19a77e89cd041645b0a8ca3ac86ad4d2307ff7fe750"
+  }
+ ]
+}

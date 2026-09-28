@@ -1,0 +1,16 @@
+{
+ "norm": "Zhbtt",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "字魂官方页声明（对得意黑二次创作，开源并永久免费商用）",
+ "license_verified": true,
+ "upstream_hint": "https://izihun.com/shangyongziti/7495.html",
+ "files": [
+  {
+   "file": "Oblique.ttf",
+   "bytes": 132,
+   "sha256": "8ef5413d8c77cdeda632918b8b203c818f2aef793d450e9326ba35860cf99896"
+  }
+ ]
+}

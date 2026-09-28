@@ -1,0 +1,16 @@
+{
+ "norm": "Zdicqx",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 2325296,
+   "sha256": "af293a990613a5865a74024771cdee785fa0251b59820577b439d12e6e1bd3f2"
+  }
+ ]
+}

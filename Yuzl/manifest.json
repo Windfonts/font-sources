@@ -1,0 +1,16 @@
+{
+ "norm": "Yuzl",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 4205572,
+   "sha256": "15b7c6952fea294efd4deff81c1d5d14f8813732351a30646a2e03637635dd34"
+  }
+ ]
+}

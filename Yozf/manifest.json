@@ -1,0 +1,16 @@
+{
+ "norm": "Yozf",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "Y.OzFont 官方发布包 YOzTTF.7z 内 OFL.txt（官网 2026-07 仍活跃）",
+ "license_verified": true,
+ "upstream_hint": "http://yozvox.web.fc2.com/",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 13452776,
+   "sha256": "bbfdfecc923a635866f3a347311849b8626da3307195ed524f4bf07e0f970940"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "norm": "Yqyk",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "https://cdn.jsdmirror.com/gh/ItMarki/jyunsaikaai@main/README.md#readme",
+ "files": [
+  {
+   "file": "Bold.ttf",
+   "bytes": 10971204,
+   "sha256": "6585775335b9ff9e8c429a6a7c54c34353e27f44e67c5c7363fe0f4895eb7273"
+  },
+  {
+   "file": "Light.ttf",
+   "bytes": 10956868,
+   "sha256": "ab5abc849030bb3462c2af4062e597ccaed0d572f1fdb3dda3115f56d76a42f2"
+  },
+  {
+   "file": "Regular.ttf",
+   "bytes": 10991696,
+   "sha256": "945bffd30e313f316df19e4fd2704e944380092d90f764b909076e3aad2631d1"
+  }
+ ]
+}

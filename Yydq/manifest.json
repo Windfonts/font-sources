@@ -1,0 +1,16 @@
+{
+ "norm": "Yydq",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "https://cdn.jsdelivr.net/gh/chilingg/YufanDanQingSong@master/LICENSE",
+ "files": [
+  {
+   "file": "Regular.otf",
+   "bytes": 13248196,
+   "sha256": "a21d8d4e487c2531eb266636ee4b1fa00fbc4ba3d015e19970ba04d5d9832423"
+  }
+ ]
+}

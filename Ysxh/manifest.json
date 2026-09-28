@@ -1,0 +1,16 @@
+{
+ "norm": "Ysxh",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "官方/收录声明页原文归档（https://www.maoken.com/freefonts/4535.html）",
+ "license_verified": true,
+ "upstream_hint": "https://www.maoken.com/freefonts/4535.html",
+ "files": [
+  {
+   "file": "Regular.otf",
+   "bytes": 10043796,
+   "sha256": "514d8062e4e96b3fdba4042d9f7e339563ccdb55dd65a2e14fc29386290b060e"
+  }
+ ]
+}

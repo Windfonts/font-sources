@@ -1,0 +1,16 @@
+{
+ "norm": "Zenantiquesoft",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 7095608,
+   "sha256": "ab566917267087f4ee3ee9662ce09ff13070e42c704e1e84b6de4c75457da1a5"
+  }
+ ]
+}

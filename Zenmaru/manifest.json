@@ -1,0 +1,21 @@
+{
+ "norm": "Zenmaru",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Medium.ttf",
+   "bytes": 3810988,
+   "sha256": "3cfdb98a13571ede17fcc769f5093a97c38b80a7b9b2ab754a26b4d822092b3b"
+  },
+  {
+   "file": "Regular.ttf",
+   "bytes": 3832756,
+   "sha256": "a0c0b53543e0993ae2225e629c833f3d51495ad31720694ff112ce4ce11111ef"
+  }
+ ]
+}
