@@ -1,0 +1,21 @@
+{
+ "norm": "Hcdht",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "寒蝉端黑宋 ChillDuanHeiSong（ChillType）随包 OFL 原文；含 Figtree 之上游版权行",
+ "license_verified": true,
+ "upstream_hint": null,
+ "files": [
+  {
+   "file": "Black.ttf",
+   "bytes": 133,
+   "sha256": "ed6dea656c415c2ad99f78316e27458960e4cf000b355d2b55f42bcdcede318c"
+  },
+  {
+   "file": "Light.ttf",
+   "bytes": 132,
+   "sha256": "dd77ac81bd95244db98332d9dd4cce116a42d1839e3b44379d85a69304d34285"
+  }
+ ]
+}

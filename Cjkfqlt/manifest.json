@@ -1,0 +1,16 @@
+{
+ "norm": "Cjkfqlt",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "官方/收录声明页原文归档（https://connect.cjkfonts.com/blog/cjkfonts_handwriting4）",
+ "license_verified": true,
+ "upstream_hint": "https://connect.cjkfonts.com/blog/cjkfonts_handwriting4",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 133,
+   "sha256": "be35ea63303db1ba107cf2d09e31522fecb80509252de05bd851885b4535beb3"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "norm": "Hcdhs",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Bold.otf",
+   "bytes": 12674352,
+   "sha256": "688542aa610aa85e6a882d23c208edc6066cff56d343eb492d3300ce1e89f7e1"
+  },
+  {
+   "file": "Medium.otf",
+   "bytes": 12865644,
+   "sha256": "2971b69dc41c9e877dc9ec58c8a97faf099523f09ca1f891fa543bb804294082"
+  },
+  {
+   "file": "Regular.otf",
+   "bytes": 12921692,
+   "sha256": "48dd423be190731ae4b39fe0b2d3edcf44efcfafa9d92546d8116b30dae3c854"
+  }
+ ]
+}

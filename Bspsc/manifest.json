@@ -1,0 +1,16 @@
+{
+ "norm": "Bspsc",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 21034042,
+   "sha256": "1bb8b16ed335c5dce857c2353adaa9bdece4e522a2c8952001a2524ec17df676"
+  }
+ ]
+}

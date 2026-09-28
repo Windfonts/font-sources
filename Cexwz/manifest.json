@@ -1,0 +1,16 @@
+{
+ "norm": "Cexwz",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "https://www.tsanger.cn/category/114",
+ "license_verified": true,
+ "upstream_hint": "https://www.tsanger.cn/category/114",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 132,
+   "sha256": "0e8ea270c8068b6717b948dc8b0dd5d51674a11f90309f9ff7e0c5bfcbdee454"
+  }
+ ]
+}

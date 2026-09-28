@@ -1,0 +1,16 @@
+{
+ "norm": "Btot",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "Potta Project（go108go/Potta）随包 OFL 原文",
+ "license_verified": true,
+ "upstream_hint": "https://raw.githubusercontent.com/google/fonts/main/ofl/pottaone/OFL.txt",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 132,
+   "sha256": "f6b14784af2a8a0c43fe130da6d8a835e023deae05d3450e0c789c48669a4830"
+  }
+ ]
+}

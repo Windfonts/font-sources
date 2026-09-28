@@ -1,0 +1,26 @@
+{
+ "norm": "Hcjz",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": null,
+ "license_verified": false,
+ "upstream_hint": null,
+ "files": [
+  {
+   "file": "Demi.otf",
+   "bytes": 1818832,
+   "sha256": "2683afe1beae326c78a91c6f2148817b572d019f9e7d626fce099cc62fc58d46"
+  },
+  {
+   "file": "Normal.otf",
+   "bytes": 1758300,
+   "sha256": "b3c3a02e9657cf8f7c5504ec1f26060649aa40b88144ba6bb7091b6f606a8df6"
+  },
+  {
+   "file": "Ultra.otf",
+   "bytes": 1883200,
+   "sha256": "8e79fcb014750ba077bc4a9c914b74ab5ad806b147ef22804aa91fa640909363"
+  }
+ ]
+}

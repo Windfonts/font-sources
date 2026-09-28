@@ -1,0 +1,16 @@
+{
+ "norm": "Dela",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 5469244,
+   "sha256": "f73c81ed56ca9d07b796228f7f0f7e8f0117b64dcb54da7246f1001ace5c6d19"
+  }
+ ]
+}

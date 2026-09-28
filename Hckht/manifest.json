@@ -1,0 +1,16 @@
+{
+ "norm": "Hckht",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "寒蝉楷体 Chill K Sans（ChillType）随包 OFL 原文",
+ "license_verified": true,
+ "upstream_hint": null,
+ "files": [
+  {
+   "file": "Medium.otf",
+   "bytes": 8578856,
+   "sha256": "77b00939197f7114c9a8664b23191f825e0bbff5e24422df3ace52daf55e701e"
+  }
+ ]
+}

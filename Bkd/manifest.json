@@ -1,0 +1,16 @@
+{
+ "norm": "Bkd",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 14232448,
+   "sha256": "19fad0c294f3d3013bdee7471cd5e79015ee7a03acb2c47d9955937fc3dc8e4e"
+  }
+ ]
+}

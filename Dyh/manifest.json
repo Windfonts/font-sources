@@ -1,0 +1,16 @@
+{
+ "norm": "Dyh",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "得意黑 Smiley Sans（atelierAnchor）随包 OFL 原文，RFN=Smiley",
+ "license_verified": true,
+ "upstream_hint": "https://raw.githubusercontent.com/atelier-anchor/smiley-sans/main/LICENSE",
+ "files": [
+  {
+   "file": "Oblique.ttf",
+   "bytes": 132,
+   "sha256": "9d27a504df46a3cc72aa378e67a830b6b0c0e141e596233b23f125d0e6508952"
+  }
+ ]
+}

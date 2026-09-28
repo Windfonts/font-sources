@@ -1,0 +1,16 @@
+{
+ "norm": "Cbds12",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "yzdnn staging pin",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 3564216,
+   "sha256": "f143b10777812f2b1339734423c4b735ef90e14f1dae42a1c44ce3e242c0c186"
+  }
+ ]
+}

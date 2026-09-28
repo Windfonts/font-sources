@@ -1,0 +1,31 @@
+{
+ "norm": "AllPun",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Bold.otf",
+   "bytes": 12707336,
+   "sha256": "d77e184df5312a1df58dd57a18495c2a9bedf65f7f93d3f371818979db1ec0b8"
+  },
+  {
+   "file": "Light.otf",
+   "bytes": 12329868,
+   "sha256": "01bfef8134bc0852836a0882ffe6e2bdd083ed9616253c15aa70265d7f6dd484"
+  },
+  {
+   "file": "Regular.otf",
+   "bytes": 12421476,
+   "sha256": "81a49899c608c20e8216fabffe80876dfbb7c3d20d0413a1af43087a820f33f2"
+  },
+  {
+   "file": "SemiBold.otf",
+   "bytes": 12177664,
+   "sha256": "13af34dc1ecbcdceeb12f7a55448f85470504307b119512ef8d7336c0b8e129c"
+  }
+ ]
+}

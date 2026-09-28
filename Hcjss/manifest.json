@@ -1,0 +1,21 @@
+{
+ "norm": "Hcjss",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Bold.otf",
+   "bytes": 15651488,
+   "sha256": "81db47be8461689a4fd69212dc44d9106c6c98986a9fcecf135d125d2df19608"
+  },
+  {
+   "file": "Regular.otf",
+   "bytes": 28309680,
+   "sha256": "c21b75df0b328b1773f9023b5625e026d023a32ee85786f869f8827627f61e33"
+  }
+ ]
+}

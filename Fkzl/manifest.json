@@ -1,0 +1,16 @@
+{
+ "norm": "Fkzl",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 7695356,
+   "sha256": "11496fac08e13f79ca7981c61ef65cee4c3cf7d4716edca88e83d5e036d4bd72"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "norm": "Hchfs",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.otf",
+   "bytes": 18889180,
+   "sha256": "b82f1a35dd2d1cfbb82ec2ca59ed40a1fdf65f3bc4510451a2ea423211859451"
+  }
+ ]
+}

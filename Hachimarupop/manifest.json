@@ -1,0 +1,16 @@
+{
+ "norm": "Hachimarupop",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Regular.ttf",
+   "bytes": 7188220,
+   "sha256": "7a2491d22847c9b686b9ef5c3fa97bc2b9e5cc83cb38834d59cf07af75b3ede4"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "norm": "Cxmc",
+ "license": "开源商用",
+ "visibility": "public",
+ "collected_at": "2026-09-28",
+ "license_source": "上游仓",
+ "license_verified": true,
+ "upstream_hint": "",
+ "files": [
+  {
+   "file": "Bold.ttf",
+   "bytes": 16326072,
+   "sha256": "cd6cdaf9d8c410469413440a7bbeb062af5136da612179775d1f8384dcd1b7bd"
+  },
+  {
+   "file": "Light.ttf",
+   "bytes": 16277568,
+   "sha256": "38cd1ece90e4cded8692413ce52074955e3bd45e5a2458ed83f989396c46ffe2"
+  },
+  {
+   "file": "Medium.ttf",
+   "bytes": 16293888,
+   "sha256": "d93366662dac591c618939a7248a05c55621f2a81f2283e4e5db97d3c60a5156"
+  },
+  {
+   "file": "Regular.ttf",
+   "bytes": 16280924,
+   "sha256": "853e5b3fc7845ab004587ddd52572d1518a04ef39c42d20ed9e638b888b120b5"
+  }
+ ]
+}
